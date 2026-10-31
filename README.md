@@ -24,7 +24,7 @@ Do users spend more time on a website with a white or a black background, and do
 
 ## Dataset
 
-- **File:** `ab_testing.csv`
+- **File:** `[ab_testing.csv](https://github.com/merlin-data-analyst/AB-Testing-Case-Study/blob/main/ab_testing_CSV.csv)`
 - **Size:** 5,000 rows and 8 columns
 - **Columns:** User ID, Group, Page Views, Time Spent, Conversion, Device, Location
 - **Type:** Synthetic practice dataset representing an imaginary UK retail website
