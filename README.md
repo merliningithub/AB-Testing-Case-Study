@@ -106,15 +106,6 @@ Treat the black background as a **promising candidate for a controlled follow-up
 - Statistical significance is not the same as business value.
 - No revenue column exists, so revenue impact cannot be calculated.
 
----
-
-## Visuals
-
-![Average Time Comparison](average_time_comparison.png)
-![Time Spent Distribution](time_spent_distribution.png)
-
----
-
 ## Project Structure
 
 ```
@@ -131,7 +122,7 @@ Treat the black background as a **promising candidate for a controlled follow-up
 
 1. Clone the repository
    ```
-   git clone [your-repo-link]
+   git clone [[your-repo-link](https://github.com/merlin-data-analyst/AB-Testing-Case-Study)]
    ```
 2. Install the libraries
    ```
