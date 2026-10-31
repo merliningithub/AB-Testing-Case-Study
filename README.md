@@ -4,7 +4,7 @@ An end-to-end A/B testing project that compares a white website background (cont
 
 **Tools:** Python, Pandas, SciPy, Statsmodels, Seaborn, Matplotlib
 
-📄 **Full case study:** [[add link to your case study document](https://github.com/merlin-data-analyst/AB-Testing-Case-Study/blob/main/about%20dataset.docx)]
+📄 **Full case study:** [[Case study document](https://github.com/merlin-data-analyst/AB-Testing-Case-Study/blob/main/about%20dataset.docx)]
 
 ---
 
@@ -114,25 +114,6 @@ Treat the black background as a **promising candidate for a controlled follow-up
 ├── average_time_comparison.png
 ├── time_spent_distribution.png
 └── README.md
-```
-
----
-
-## How to Run
-
-1. Clone the repository
-   ```
-   git clone [[link](https://github.com/merlin-data-analyst/AB-Testing-Case-Study)]
-   ```
-2. Install the libraries
-   ```
-   python -m pip install pandas scipy matplotlib seaborn statsmodels
-   ```
-3. Run the analysis from the project folder
-   ```
-   python ab_test_analysis.py
-   ```
-
 ---
 
 ## Skills Demonstrated
