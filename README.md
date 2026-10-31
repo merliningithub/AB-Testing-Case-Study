@@ -122,7 +122,7 @@ Treat the black background as a **promising candidate for a controlled follow-up
 
 1. Clone the repository
    ```
-   git clone [[your-repo-link](https://github.com/merlin-data-analyst/AB-Testing-Case-Study)]
+   git clone [[link](https://github.com/merlin-data-analyst/AB-Testing-Case-Study)]
    ```
 2. Install the libraries
    ```
